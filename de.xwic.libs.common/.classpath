@@ -5,7 +5,6 @@
 	<classpathentry exported="true" kind="lib" path="lib/commons-dbcp-1.2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/commons-pool-1.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/commons-logging.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jaxen-1.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jta.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.9.jar"/>
@@ -14,21 +13,22 @@
 	<classpathentry exported="true" kind="lib" path="lib/mail.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/opencsv-1.8.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/servlet-api-2.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/jwic_compatibility.jar"/>
+	<classpathentry kind="lib" path="lib/jwic_compatibility.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jcommon-1.0.15.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jcommon-1.0.9.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jfreechart-1.0.12.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jfreechart-1.0.5.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jtds-1.2.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/velocity-1.4-log4j-patch.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/jwic-4.0.4.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/poi-3.6-20091214.jar" sourcepath="lib/src/poi-3.6-src.zip"/>
 	<classpathentry exported="true" kind="lib" path="lib/poi-ooxml-3.6-20091214.jar" sourcepath="lib/src/poi-ooxml-3.6-src.zip"/>
 	<classpathentry exported="true" kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/poi-ooxml-schemas-3.6-20091214.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/jwic-ecolib.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/dom4j-1.5.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/org.json.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/hibernate3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jwic-5.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jwic-controls-5.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/dom4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
